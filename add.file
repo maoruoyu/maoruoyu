@@ -2,3 +2,5 @@
 #define CONFIG_TEST "~"
 
 #define IS_OK "ok"
+
+is it ok?
