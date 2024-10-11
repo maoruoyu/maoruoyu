@@ -1,2 +1,4 @@
 // /*使用vscode添加文件   测试git使用*/
 #define CONFIG_TEST "~"
+
+#define IS_OK "ok"
